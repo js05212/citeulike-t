@@ -26,6 +26,9 @@ tags.dat		tags, sorted by tag-id's
 users.dat		rating matrix (user-item matrix)
 vocabulary.dat	corresponding words for file mult.dat
 
+## See Also
+Another similar dataset from CiteULike, [citeulike-a](https://github.com/js05212/citeulike-a).
+
 ## Reference:
 [Collaborative Topic Regression with Social Regularization](http://wanghao.in/paper/IJCAI13_CTRSR.pdf)
 ```
